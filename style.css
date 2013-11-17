@@ -1,0 +1,19 @@
+#wrapper {
+	align: center;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;	
+	
+}
+.post{
+	border: 1px solid silver;
+	margin-bottom: 5px;
+	padding: 10px;
+	
+	}
+table tr td{
+	padding: 10px;
+	border: 1px solid silver;
+	}
+
+p.datecreated { float: right; width:100px; }
